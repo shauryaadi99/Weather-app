@@ -3,10 +3,9 @@
 
 A beautiful, responsive weather app built with React and Tailwind CSS. Supports both light and dark themes, shows weather for today, tomorrow, and the day after, and lets you search or randomize Indian cities with a single click.
 
-![Weather App Screenshot](![Screenshot 2025-06-04 143659](https://github.com/user-attachments/assets/52e8a1e6-521f-4ac6-9efd-45f07843a4e7)
+![Screenshot 2025-06-04 143659](https://github.com/user-attachments/assets/52e8a1e6-521f-4ac6-9efd-45f07843a4e7)
 ![Screenshot 2025-06-04 143719](https://github.com/user-attachments/assets/9a07df94-2042-4a0b-9683-958c7f959f78)
 
-) <!-- Replace with your actual image path -->
 
 ---
 
@@ -70,17 +69,10 @@ Try it live here 👉 [Live Demo]([https://your-deployment-link.com](https://wea
    yarn dev
    ```
 
----
+| 🌞 Light Mode                                                                                  | 🌚 Dark Mode                                                                                  |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Light Mode](https://github.com/user-attachments/assets/39e2117e-fca1-4972-b335-fba5c6485783) | ![Dark Mode](https://github.com/user-attachments/assets/8798019b-d864-4cfe-9021-29f0a6a34902) |
 
-## 📸 Screenshots
-
-| Light Mode                        | Dark Mode                       |
-| --------------------------------- | ------------------------------- |
-| ![Light](![Screenshot 2025-06-04 143719](https://github.com/user-attachments/assets/39e2117e-fca1-4972-b335-fba5c6485783)
-) | ![Dark](![Screenshot 2025-06-04 143659](https://github.com/user-attachments/assets/8798019b-d864-4cfe-9021-29f0a6a34902)
-) |
-
----
 
 ## 📌 Environment Variables
 
