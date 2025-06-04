@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.styliah {
+  @apply font-sans antialiased;
+}
+
+.styliah-font-base {
+  @apply font-medium tracking-wide;
+}
